@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+A complete Movies Imdb system whose frontend was built using React 		
+The system acts as a ledger for every transaction of movies.
+Implemented user authentication and used firebase to keep track of a user’s transaction.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
